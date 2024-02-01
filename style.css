@@ -1,0 +1,23 @@
+body{
+    background-image:url(p1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    float: right;
+    text-align: right;
+    border: 10px;
+    margin: auto;
+    padding: 10PX;
+    position: relative;
+}
+h1{
+    text-align:center;
+    padding: 10px;
+    margin: auto;
+}
+.form{
+    text-align: center;
+    padding: 100px;
+    
+}
